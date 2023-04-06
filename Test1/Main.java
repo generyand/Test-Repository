@@ -9,6 +9,7 @@ public class Main {
 
         int randNum = rand.nextInt(9) + 1;
         System.out.println(randNum);
+        System.out.println("Wassup, man");
         
     }
     
